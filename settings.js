@@ -11,8 +11,30 @@ global.APIKeys = {
 	'https://zenzapis.xyz': 'your key',
 }
 
-global.alivemsg = `📤I am alive now😇
-🤷‍♀️How can I help you?😉` //Costomize Alive Message (type your message in `` )
+global.alivemsg = `*🇱🇰𝐒𝐑𝐋 𝐋𝐀𝐍𝐊𝐀 𝐁𝐋𝐀𝐂𝐊 𝐓𝐈𝐆𝐄𝐑 𝐌𝐃𝐁𝐎𝐓 𝐆𝐑𝐎𝐔𝐏🇱🇰*
+
+ ◐━━━━━━━━━━━━━━━━━━━◑
+
+*🛑𝗣𝗢𝗪𝗘𝗥𝗘𝗗 𝗕𝗬 :- 𝐒𝐀𝐂𝐇𝐈𝐘𝐀*
+
+*(24×7) පැය විසිහතර තුළම ක්‍රියාකරයි✅*
+
+*බොට් වැඩද කියලා* *බලන්න .𝗔𝗟𝗜𝗩𝗘 ලෙස මැසේජ් එකක් දමන්න✅*
+
+*බොට්ගෙ 𝗖𝗢𝗠𝗠𝗔𝗡𝗗 𝗟𝗜𝗦𝗧 එක* *ගන්න .𝗠𝗘𝗡𝗨 හෝ .𝗣𝗔𝗡𝗘𝗟ලෙස* *මැසේජ් එකක් දමන්න✅*
+
+*𝗦𝗢𝗡𝗚, 𝗩𝗜𝗗𝗘𝗢, 𝗔𝗣𝗣𝗦, 𝗠𝗘𝗗𝗜𝗔𝗙𝗜𝗟𝗘, 𝗦𝗧𝗜𝗖𝗞𝗘𝗥, 𝗬𝗧 𝗩𝗜𝗗𝗘𝗢, 𝗜𝗠𝗔𝗚𝗘 වැනි දෑ ඩව්න්ලෝඩ් කර* *ගැනීමට සහ තවත් විශේෂ වැඩ* *කරගත හැක
+
+*◯*කෙල්ලෝ කොල්ලො* *දෙගොල්ලන්ටම ඉන්න පුලුවන්✅*
+
+◑━━━━━━━━━━━━━━━━━━◐
+
+*𝐍𝐎 𝐒𝐏𝐀𝐌*
+
+*𝐍𝐎 𝐒𝐄𝐗
+
+https://chat.whatsapp.com/E8Pof7qW9r4G9qDJEP6mdq
+😉` //Costomize Alive Message (type your message in `` )
 
 
 global.autoTyping = false //auto tying in gc (true to on, false to off)
@@ -29,14 +51,14 @@ global.doc5 = 'application/pdf'
 global.doc6 = 'application/vnd.android.package-archive'
 
 //owner v card
-global.vcardowner = ['+380944814219'] // owner number
-global.ownername = "😎𝙆.𝙋𝙧𝙖𝙗𝙝𝙖𝙨𝙝𝙖❯❯" // owner name
-global.ytname = "" // yt chanel name
+global.vcardowner = ['+94767233346'] // owner number
+global.ownername = "TIGER TM SL" // owner name
+global.ytname = "SACHIYA YT" // yt chanel name
 global.socialm = "GitHub: prabhasha2006" // github or insta name
 global.location = "India, Mizoram, Aizawl" // location
 
 //bot body 
-global.alivepic = `https://i.ibb.co/cyyCjN7/20220803-081426.png` // alive picture \\ use "https://ibb.com" to upload photos. < 1 MB
+global.alivepic = `https://i.imgur.com/XHhlqtK.jpeg` // alive picture \\ use "https://ibb.com" to upload photos. < 1 MB
 
 global.dragonchat = "false"  // chat bot  "true" / "false" (200 auto replies in this)
 global.callblock = "false" // call block "true" / "false" ("true"  to block callers)
@@ -47,16 +69,16 @@ global.upsongvoice = "false" // true/false \\ bot can upload song as voice note 
 global.welcom_msg = "true" // Welcome / Goodbye   [true/false]
 
 
-global.owner = ['+380944814219']
-global.ownertag = '+380944814219' //your tag number
-global.botname = '𝙍𝙀𝘿╺ 𝘿𝙍𝘼𝙂𝙊𝙉 - 𝘉𝘖𝘛' //ur bot name
-global.packname = "Bot Sticker" // sticker packname
-global.author = "𝙍𝙀𝘿╺ 𝘿𝙍𝘼𝙂𝙊𝙉" // sticker author
-global.dragonemoji = '🧩' // Menu emoji
-global.footer = '[ ◉ ʀᴇᴅ-ᴅʀᴀɢᴏɴ-ᴍᴅ ]' //
+global.owner = ['+94767233346']
+global.ownertag = '+94767233346' //your tag number
+global.botname = 'B͟L͟A͟C͟K͟ T͟I͟G͟E͟R͟ B͟O͟T͟' //ur bot name
+global.packname = "S͟A͟C͟H͟I͟Y͟Q͟" // sticker packname
+global.author = "S͟A͟C͟H͟I͟Y͟A͟" // sticker author
+global.dragonemoji = '♲' // Menu emoji
+global.footer = '[ B͟L͟A͟C͟K͟ T͟I͟G͟E͟R͟ T͟M͟ ]' //
 
 //database
-global.premium = ['+380944814219'] //ur premium numbers
+global.premium = ['+94767233346'] //ur premium numbers
 
 //other
 global.sessionName = 'session'
@@ -71,7 +93,7 @@ global.mess = {
     group: 'Feature Used Only For Groups!',
     private: 'This Features Only For Private Chat!',
     bot: 'This Feature Is Only For Bot😝',
-    wait: '👉👈Pleas Wait...',
+    wait: '♲පොඩක් හිටපන් ...',
     error: 'Error!!! Maybe Api Key Is Expired🤔!',
     endLimit: 'Your Daily Limit Has Expired, The Limit Will Be Reset Every 12 Hours',
     linkm: 'Where is the link?',
